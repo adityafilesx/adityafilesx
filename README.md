@@ -118,47 +118,86 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityafilesx&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=6f42c1&point=ff6b6b&area=true" />
 </div>
 
+<!-- 🐍 SNAKE EATS MY COMMITS — lives right inside the contribution section -->
+<br/>
+<p align="center"><i>🐍 &nbsp;Watch the snake devour every single commit...</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<details>
+<summary>⚙️ &nbsp;<b>Click here — How to activate the commit snake</b></summary>
+<br/>
+
+Create the file **`.github/workflows/snake.yml`** inside your `adityafilesx` profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: adityafilesx
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General → Allow all actions** and run the workflow manually once. ✅
+
+</details>
+
 ---
 
-## 🚀 Featured Projects
+<!-- 🦕 CHROME DINO — THE UNIQUE EASTER EGG -->
+## 🦕 No Internet? No Problem.
 
 <div align="center">
 
-| 🔬 Project | 📝 Description | ⚙️ Tech Stack | 🌟 |
-|---|---|---|---|
-| [📊 Data Preprocessing Pipeline](https://github.com/adityafilesx/Data-Preprocessing-in-Python) | End-to-end data cleaning with Ordinal & One-Hot Encoding + Mean Imputation | `Python` `Pandas` `NumPy` | ⭐ |
-| 🤖 ML Model Hub *(WIP)* | Collection of end-to-end ML pipelines on real-world datasets | `Scikit-learn` `Matplotlib` | 🔨 |
-| 📈 EDA Toolkit *(WIP)* | Automated Exploratory Data Analysis with visual reports | `Seaborn` `Plotly` `Pandas` | 🔨 |
+```
+          ██████
+        ██      ██
+      ████  ██████
+      ██  ██      ██
+    ██████████████████
+    ██    ████████████
+  ██████████████████████
+  ██  ██████████████  ██
+  ████  ██        ██████
+  ██  ████        ████
+    ██    ██    ██
+    ████████    ██████████████
+      ██    ████            ██
+      ████                ████
+        ████████████████████
 
-</div>
+  🌵            🌵                  🌵
+─────────────────────────────────────────────
+    NO WIFI. NO PROBLEM. I JUST KEEP RUNNING.
+```
 
----
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Chrome Dinosaur — No Internet Game" />
 
-## 🐍 Contribution Snake
+<br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-> 💡 **To enable the snake animation above:** Go to your GitHub profile repo → Actions tab → Enable the "Generate Snake" workflow from [platane/snk](https://github.com/platane/snk)
-
----
-
-## 🎯 2025 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🤖 Build & deploy 3 end-to-end ML projects | 🔄 In Progress |
-| 📚 Complete Deep Learning specialization | 🔄 In Progress |
-| 🏅 Crack a national-level hackathon | 🎯 Upcoming |
-| 🌍 Contribute to open-source ML libraries | 🎯 Upcoming |
-| 📝 Write tech blogs on Medium | 🔄 In Progress |
+> *"Dinosaurs went extinct because they didn't commit to GitHub."* 🦕 — definitely not me
 
 </div>
 
@@ -175,9 +214,7 @@
 ## 🤝 Let's Build Something Great
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Open%20to%20Collaborate!&fontSize=28&fontColor=a78bfa&animation=twinkling&fontAlignY=65" />
-
 </div>
 
 <p align="center">
@@ -199,5 +236,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6f42c1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+my+work!;Happy+Coding!+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6f42c1&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+my+work!;Happy+Coding!+%F0%9F%92%9C;P.S.+Press+Space+on+Chrome's+no-internet+page+%F0%9F%A6%95" />
 </div>
