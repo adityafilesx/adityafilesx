@@ -47,7 +47,7 @@
 ║              ██║  ██║██║  ██║   ██║  ╚██████╔╝   ██║            ║
 ║              ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═════╝    ╚═╝            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  > whoami                                                        ║
+║  > who am i                                                        ║
 ║    Aditya — Data Scientist & ML Engineer from Delhi, India 🇮🇳   ║
 ║                                                                  ║
 ║  > cat skills.txt                                                ║
@@ -106,30 +106,20 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Snake Slithering Through My Commits
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityafilesx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adityafilesx&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=12" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityafilesx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityafilesx&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=6f42c1&point=ff6b6b&area=true" />
-</div>
-
-<!-- 🐍 SNAKE EATS MY COMMITS — lives right inside the contribution section -->
-<br/>
-<p align="center"><i>🐍 &nbsp;Watch the snake devour every single commit...</i></p>
+<p><i>A snake weaving through every block I've ever pushed — watch it go 🐍</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="snake slithering through contribution grid" src="https://raw.githubusercontent.com/adityafilesx/adityafilesx/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+</div>
 
 <details>
-<summary>⚙️ &nbsp;<b>Click here — How to activate the commit snake</b></summary>
+<summary>⚙️ &nbsp;<b>How to activate the snake on your contribution graph</b></summary>
 <br/>
 
 Create the file **`.github/workflows/snake.yml`** inside your `adityafilesx` profile repo:
