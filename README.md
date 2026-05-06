@@ -166,43 +166,6 @@ Then go to **Settings → Actions → General → Allow all actions** and run th
 
 ---
 
-<!-- 🦕 CHROME DINO — THE UNIQUE EASTER EGG -->
-## 🦕 No Internet? No Problem.
-
-<div align="center">
-
-```
-          ██████
-        ██      ██
-      ████  ██████
-      ██  ██      ██
-    ██████████████████
-    ██    ████████████
-  ██████████████████████
-  ██  ██████████████  ██
-  ████  ██        ██████
-  ██  ████        ████
-    ██    ██    ██
-    ████████    ██████████████
-      ██    ████            ██
-      ████                ████
-        ████████████████████
-
-  🌵            🌵                  🌵
-─────────────────────────────────────────────
-    NO WIFI. NO PROBLEM. I JUST KEEP RUNNING.
-```
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Chrome Dinosaur — No Internet Game" />
-
-<br/>
-
-> *"Dinosaurs went extinct because they didn't commit to GitHub."* 🦕 — definitely not me
-
-</div>
-
----
-
 ## 💬 Random Dev Quote
 
 <div align="center">
@@ -236,5 +199,5 @@ Then go to **Settings → Actions → General → Allow all actions** and run th
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6f42c1&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+my+work!;Happy+Coding!+%F0%9F%92%9C;P.S.+Press+Space+on+Chrome's+no-internet+page+%F0%9F%A6%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6f42c1&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+my+work!;Happy+Coding!+%F0%9F%92%9C" />
 </div>
