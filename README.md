@@ -140,3 +140,31 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6f42c1&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+my+work!;Happy+Coding!+%F0%9F%92%9C" />
 </div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
